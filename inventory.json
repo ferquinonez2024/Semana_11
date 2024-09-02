@@ -4,5 +4,11 @@
         "name": "azucar",
         "stock": 230,
         "cost": 0.3
+    },
+    "2": {
+        "item_id": "2",
+        "name": "arroz",
+        "stock": 130,
+        "cost": 0.35
     }
 }
